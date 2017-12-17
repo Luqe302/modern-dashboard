@@ -1,0 +1,10 @@
+.app {
+    display: flex;
+
+    .app__site {
+        display: flex;
+        flex-direction: column;
+        width: calc(100% - 12rem);
+        box-shadow: $shadow;
+    }
+}

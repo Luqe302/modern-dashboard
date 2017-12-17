@@ -1,0 +1,9 @@
+.sidebar {
+    background: $white;
+    width: 12rem;
+    min-height: 100vh;
+
+    .sidebar__section {
+        padding: .5rem 0;
+    }
+}
